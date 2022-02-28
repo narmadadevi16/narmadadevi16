@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hello, this is Narmadadevi.S.D.</h1>
 <h4 align="center">⚛ Data analytics and Machine Learning Enthusiast 🤖.</h4>
 
