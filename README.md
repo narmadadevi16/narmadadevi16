@@ -34,18 +34,16 @@
 [<code>
 <img alt="Github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
-[<code>
-<img alt="Mongodb" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
-</code>](https://www.mongodb.com/)
+
 
 
 ---
 
-![Jothi Bathra's github stats](https://github-readme-stats.vercel.app/api?username=jothi-bathra&show_icons=true&hide_border=true&theme=tokyonight)
+![Narmadadevi github stats](https://github-readme-stats.vercel.app/api?username=narmadadevi16&show_icons=true&hide_border=true&theme=tokyonight)
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jothi-bathra" alt="Jothi Bathra" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=narmadadevi16" alt="Narmadadevi" /> </p>
 
 ---
 
